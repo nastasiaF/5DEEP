@@ -39,13 +39,18 @@ Quelles sont les paramétres du modeles sur lesquel vous pour influer ?
 ## Analyse de texte :
 
 ### Le jeux de donnée : 
-https://s3.amazonaws.com/text-datasets/''babi_tasks_1-20_v1-2.tar.gz
+
+Disponible ici : https://s3.amazonaws.com/text-datasets/babi_tasks_1-20_v1-2.tar.gz
 
 # Le Charger et le découvrir :
 
 * Que contient ce jeux de donnée? 
 * Est-ce un jeu de donnée est qualifié? Pourquoi ?
 * Quel(s) probléme ce jeu de donnée permet de ressoudre ? 
+* Comment modeliser les données pour apprendre un resseau à raisonner ?
+
+
+# 
 
 
 ## les probléme à ressoudre
