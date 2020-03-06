@@ -1,9 +1,9 @@
 # 5DEEP
 Deep Leaning Courses
 
-## Analyses des images
+## Analyses d'images
 
-### Objectif TP1 : Explorartion du mnist
+### Objectif TP1 : Exploration du mnist
 
 - Repondre au question du TP. 
 
