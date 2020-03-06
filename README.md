@@ -16,5 +16,15 @@ Deep Leaning Courses
 
 ## Analyse de texte :
 
-## Charger le jeux de donnée : 
+### Le jeux de donnée : 
 https://s3.amazonaws.com/text-datasets/''babi_tasks_1-20_v1-2.tar.gz
+
+* Le Charger et le découvrir :
+
+Que contient ce jeux de donnée? 
+Est-ce un jeu de donnée dit qualifié? 
+
+
+## les probléme à ressoudre
+
+https://arxiv.org/abs/1502.05698
