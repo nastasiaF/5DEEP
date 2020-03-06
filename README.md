@@ -5,11 +5,11 @@ Deep Leaning Courses
 
 ### Objectif TP1 : Exploration du mnist
 
-- Repondre au question du TP. 
+* Repondre au question du TP. 
 
 #### Les Layers 
--Rappeler les différents layers que vous avez utiliser jusqu'à present. 
--Utiliser le layer Dropout, que fait-il, comment l'utiliser ?
+* Rappeler les différents layers que vous avez utiliser jusqu'à present. 
+* Utiliser le layer Dropout, que fait-il, comment l'utiliser ?
 
 #### Les paramêtres à faire varier 
 
@@ -18,9 +18,9 @@ Quelles sont les paramétres du modeles sur lesquel vous pour influer ?
     Lesquels permettent de modifier l'apprentissage du réseau ? 
     
 #### Evaluer la qualité d'un réseau entrainé
-- Comment évaluer la qualité d'un modéle ?
-- Faire varier les parametres du modéles , et comparer les modéles entre eux dans un tableau avec les critéres definis à la question d'avant.
-- Conclure
+* Comment évaluer la qualité d'un modéle ?
+* Faire varier les parametres du modéles , et comparer les modéles entre eux dans un tableau avec les critéres definis à la question d'avant.
+* Conclure
 
 ### Objectif 2 : Data augmentation 
 
